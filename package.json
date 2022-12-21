@@ -1,0 +1,17 @@
+{
+  "name": "mernstacktutorial",
+  "version": "1.0.0",
+  "description": "TUtorial mern stack",
+  "main": "server.js",
+  "scripts": {
+    "start" : "node backend/server.js"
+  },
+  "author": "Taylor Vo",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^6.8.1"
+  }
+}
